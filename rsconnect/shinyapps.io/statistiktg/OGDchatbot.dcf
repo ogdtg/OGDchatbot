@@ -1,0 +1,10 @@
+name: OGDchatbot
+title: OGDchatbot
+username: statistiktg
+account: statistiktg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15053883
+bundleId:
+url: https://statistiktg.shinyapps.io/OGDchatbot/
+version: 1

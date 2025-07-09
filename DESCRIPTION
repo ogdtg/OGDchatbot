@@ -1,0 +1,26 @@
+Package: OGDchatbot
+Title: OGDchatbot
+Version: 0.0.0.9000
+Authors@R: person('Felix', 'Lorenz', email = 'felix.lorenz@tg.ch', role = c('cre', 'aut'))
+Description: A Shiny App that uses querychat to chat with the OGD of the Canton of Thurgau. It is possible to use SQL Queries on data that is stored in a duckdb.
+License: MIT + file LICENSE
+Imports: 
+    bslib,
+    config (>= 0.3.2),
+    dplyr,
+    DT,
+    ellmer,
+    golem (>= 0.4.1),
+    httr,
+    jsonlite,
+    odsAPI,
+    pkgload,
+    purrr,
+    querychat,
+    shiny (>= 1.11.1),
+    shinyjs,
+    waiter,
+    writexl
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
