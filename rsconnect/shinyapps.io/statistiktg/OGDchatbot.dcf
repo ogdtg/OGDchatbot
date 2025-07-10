@@ -5,6 +5,6 @@ account: statistiktg
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 15053883
-bundleId:
+bundleId: 10593387
 url: https://statistiktg.shinyapps.io/OGDchatbot/
 version: 1
